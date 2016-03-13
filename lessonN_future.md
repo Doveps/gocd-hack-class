@@ -1,5 +1,5 @@
 # pipelines, stages, jobs, tasks?
-* in GoCD: pipepline, stage, job, task
+* in GoCD: pipeline, stage, job, task
 * parallel vs serial
 * best practice? 
 * start simple: one task in one job, in one stage, in one pipeline

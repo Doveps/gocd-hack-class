@@ -49,7 +49,24 @@ git remote -v
 # Build our own!
 
 ## First pipeline
-* TODO
+* create a github repo
+* back to GoCD UI
+* admin -> pipelines
+* create new
+* type -> git
+* url -> your https github repo
+* task type -> more
+* lookup commands -> echo
+* `echo hello world`
+* save
+* un-pause
 
 ## Build out the value stream
-* TODO
+* admin -> pipelines
+* create new
+* type -> pipeline
+* task type -> more
+* lookup commands -> echo
+* `echo downstream`
+* save
+* un-pause
